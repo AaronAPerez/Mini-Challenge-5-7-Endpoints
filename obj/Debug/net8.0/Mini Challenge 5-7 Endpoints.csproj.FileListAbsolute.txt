@@ -1,0 +1,33 @@
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\appsettings.Development.json
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\appsettings.json
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Mini Challenge 5-7 Endpoints.exe
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Mini Challenge 5-7 Endpoints.deps.json
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Mini Challenge 5-7 Endpoints.runtimeconfig.json
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Mini Challenge 5-7 Endpoints.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Mini Challenge 5-7 Endpoints.pdb
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.csproj.AssemblyReference.cache
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.AssemblyInfoInputs.cache
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.AssemblyInfo.cs
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.csproj.CoreCompileInputs.cache
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\staticwebassets.build.json
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\staticwebassets.development.json
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.Mini Challenge 5-7 Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.build.Mini Challenge 5-7 Endpoints.props
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mini Challenge 5-7 Endpoints.props
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mini Challenge 5-7 Endpoints.props
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\scopedcss\bundle\Mini Challenge 5-7 Endpoints.styles.css
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Cha.734F9B40.Up2Date
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\refint\Mini Challenge 5-7 Endpoints.dll
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.pdb
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\Mini Challenge 5-7 Endpoints.genruntimeconfig.cache
+C:\Documents\.GitHub Repositories\Mini Challenge 5-7 Endpoints\obj\Debug\net8.0\ref\Mini Challenge 5-7 Endpoints.dll
