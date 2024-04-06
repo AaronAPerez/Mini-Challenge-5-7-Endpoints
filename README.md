@@ -20,5 +20,5 @@ Project Description: Design an API with 4 endpoints based on mini challenges fro
      - "You entered 12345, reversed is 54321" <br> 
 
 
-Peer Review by:   <br>
-Comment: 
+Peer Review by: Alicia Bryant  <br>
+Comment: All endpoints execute perfectly. I really liked the way your madlib turned out and found the story comical. Your code looks nice and clean. Great job!
